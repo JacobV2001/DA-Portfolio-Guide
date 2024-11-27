@@ -21,8 +21,9 @@ Welcome to my data analytics portfolio! Here, I showcase my work on various **Da
 
 ## SQL Projects
 
-| Project Link | Completion Date | Tools | Project Description | 
-| --- | --- | --- | --- |
+| Project Link | Area of Analysis | Project Description | 
+| --- | --- | --- |
+| 🔍 [Does Price Correlate with Quality?](https://github.com/JacobV2001/DS_Books_SQL_Analysis) | Data Analysis, Data Transformation, SQL Queries & Aggregation | This project analyzes the relationship between book prices and their average ratings to see if higher prices correlate with better quality. |
 
 
 ---
