@@ -22,7 +22,7 @@ Welcome to my data analytics portfolio! Here, I showcase my work on various **Da
 
 ## Python Projects
 
-| Project Link | Completion Date | Tools | Project Description | 
+| Project Link | Areas Of Analysis | Project Description | Tools |
 | --- | --- | --- | --- |
 | 🏥 [U.S. Medical Insurance Costs](https://github.com/JacobV2001/Data-Analytics/blob/main/US_Medical_Insurance_Cost.ipynb) | Data Analysis, Exploratory Data Analysis (EDA), Python Fundamentals, File Handeling | In this project, I analyze a medical insurance dataset to explore patterns related to age, sex, smoking status, and region, focusing on insurance charges. | csv |
 
@@ -41,7 +41,8 @@ Welcome to my data analytics portfolio! Here, I showcase my work on various **Da
 
 ## Excel
 
-| Project Link | Completion Date | Tools | Project Description | 
+| Project Link | Areas of Analysis | Project Description | Download File |
 | --- | --- | --- | --- |
+| 🔍 [Exploring Data Project](https://1drv.ms/x/s!AovkxIP1HqPpdC9tLDsbSh6MiUU?embed=1&em=2) | Query & Comparison, Filtering & Insight, Basic Excel Functions, Data Analysis | This project investigates the top and bottom GDP contributions across various sectors from 1987 to 1997, analyzing how these sectors' contributions evolved over time. Using advanced Excel functions, the study highlights the shifts in sectoral performance and their broader economic impact. | [File](https://github.com/JacobV2001/Data-Analytics/raw/main/Exploring%20Data%20Project.xlsx) |
 
 
