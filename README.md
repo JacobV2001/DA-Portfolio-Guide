@@ -39,8 +39,10 @@ Welcome to my data analytics portfolio! Here, I showcase my work on various **Da
 
 ## Tableau
 
-| Project Link | Completion Date | Tools | Project Description | 
-| --- | --- | --- | --- |
+| Project Link | Project Description | Dashboard Link | 
+| --- | --- | --- |
+| ✈️ [Airplane Wildlife Collisions Tableau 🦅](https://github.com/your-github-link) | Analyzed wildlife collision patterns across major airports, focusing on location, frequency, and severity using a dataset from Wikipedia. Created interactive visualizations in Tableau to reveal trends and insights. | [Dashboard](https://public.tableau.com/app/profile/your-tableau-profile/viz/WildlifeAirplaneCollisions/Dashboard1) |
+
 
 
 ---
